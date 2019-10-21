@@ -1,1 +1,2 @@
 # BSUIR-Cplusplus
+Hello, world!
