@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\test\Desktop\БГУИР 90331\ОАПЯВУ\Anton Serko Solution\Laba 2_2\Source.cpp(7,13): warning C4305: =: усечение из "double" в "float"
+C:\Users\test\Desktop\БГУИР 90331\ОАПЯВУ\Anton Serko Solution\Laba 2_2\Source.cpp(8,10): warning C4305: =: усечение из "double" в "float"
+C:\Users\test\Desktop\БГУИР 90331\ОАПЯВУ\Anton Serko Solution\Laba 2_2\Source.cpp(9,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\test\Desktop\БГУИР 90331\ОАПЯВУ\Anton Serko Solution\Laba 2_2\Source.cpp(11,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Laba 2_2.vcxproj -> C:\Users\test\Desktop\БГУИР 90331\ОАПЯВУ\Anton Serko Solution\Debug\Laba 2_2.exe
