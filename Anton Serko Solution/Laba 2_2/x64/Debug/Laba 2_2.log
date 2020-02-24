@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 2_2\Source.cpp(7,13): warning C4305: =: усечение из "double" в "float"
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 2_2\Source.cpp(8,10): warning C4305: =: усечение из "double" в "float"
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 2_2\Source.cpp(9,12): warning C4305: =: усечение из "double" в "float"
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 2_2\Source.cpp(11,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Laba 2_2.vcxproj -> C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\x64\Debug\Laba 2_2.exe
