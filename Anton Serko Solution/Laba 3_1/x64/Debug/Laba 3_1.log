@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Laba 3_1.vcxproj -> C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\x64\Debug\Laba 3_1.exe
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 3_1\Source.cpp(17): warning C6031: Возвращаемое значение пропущено: "scanf".
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 3_1\Source.cpp(19): warning C6031: Возвращаемое значение пропущено: "scanf".
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 3_1\Source.cpp(21): warning C6031: Возвращаемое значение пропущено: "scanf".
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 3_1\Source.cpp(23): warning C6031: Возвращаемое значение пропущено: "scanf".
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 3_1\Source.cpp(31): warning C26451: Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).
