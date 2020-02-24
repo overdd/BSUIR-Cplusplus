@@ -1,3 +1,2 @@
 ﻿  Source.cpp
   Laba 4_2.vcxproj -> C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\x64\Debug\Laba 4_2.exe
-C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 4_2\Source.cpp(26): warning C6385: Чтение недопустимых данных из "a":  доступный для чтения объем равен "n*sizeof(int)" байт, однако считать можно только "8" байт.
