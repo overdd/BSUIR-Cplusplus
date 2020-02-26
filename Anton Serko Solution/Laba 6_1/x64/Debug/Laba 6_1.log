@@ -1,5 +1,5 @@
 ﻿  Source.cpp
-C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(45,32): warning C4081: требуется "newline"; обнаружен ";"
-C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(50,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(51,31): warning C4615: #pragma warning: неизвестный тип пользовательского предупреждения
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(44,32): warning C4081: требуется "newline"; обнаружен ";"
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(49,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 6_1\Source.cpp(50,31): warning C4615: #pragma warning: неизвестный тип пользовательского предупреждения
   Laba 6_1.vcxproj -> C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\x64\Debug\Laba 6_1.exe

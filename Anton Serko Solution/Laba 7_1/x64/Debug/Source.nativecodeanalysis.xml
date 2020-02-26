@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+      <FILENAME>Source.cpp</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>Возможно, строка "stringInputed" не завершается нулем.</DESCRIPTION>
+    <FUNCTION>menuSection1</FUNCTION>
+    <DECORATED>?menuSection1@@YAXXZ</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>26</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Это выражение может привести к тому, что "stringInputed" не будет завершаться нулем</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>27</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"stringInputed" является выходными данными из "gets_s" (объявлено в c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:311)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"stringInputed" является выходными данными из "gets_s" (объявлено в c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:311)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить эту ветвь (предполагается, что "fileWithInput==0" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"stringInputed" является входными данными для "fprintf" (объявлено в c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:828)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 7_1\</FILEPATH>
+        <FILENAME>Source.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"stringInputed" должно завершаться нулем в соответствии с SAL-аннотацией для "fprintf"</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
