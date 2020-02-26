@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 5_1\</FILEPATH>
+      <FILENAME>Source.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "scanf".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\YandexDisk\БГУИР 90331\ОАПЯВУ\BSUIR-Cplusplus\Anton Serko Solution\Laba 5_1\</FILEPATH>
+      <FILENAME>Source.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "scanf".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
